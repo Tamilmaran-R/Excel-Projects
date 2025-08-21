@@ -39,9 +39,10 @@ The analysis was done using **Excel Pivot Tables, Slicers, and Interactive Chart
 ---
 
 ## 📸 Dashboard Preview
-![Netflix Dashboard](<img width="1077" height="907" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/49ee817f-3029-4ecf-a506-8d20733ea74a" />
-)  
-*(Replace `dashboard_screenshot.png` with your actual screenshot file name)*  
+![Netflix Dashboard]
+<img width="1077" height="907" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/cdf7e968-d730-453b-8dda-0976ba0af69c" />
+
+
 
 ---
 
